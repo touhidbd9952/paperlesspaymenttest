@@ -8,6 +8,6 @@ class PaymentController extends Controller
 {
     public function paperless_payment()
     {
-        return view('payment');
+        return view('paperless_payment');
     }
 }
